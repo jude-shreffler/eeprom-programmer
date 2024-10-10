@@ -1,3 +1,7 @@
+## A brief note
+
+This fork simply adds a fifth sketch, "eeprom-binary-programmer" that takes a binary file as input and, using the incbin library and the arduino's own rom, flashes an entire binary to the user's eeprom.
+
 # Arduino EEPROM programmer
 
 Copyright 2017 Ben Eater
